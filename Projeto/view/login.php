@@ -22,8 +22,7 @@
                 <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
                 <label for="floatingPassword">Senha</label>
               </div>
-
-              <div class="form-check mb-3">
+              <div class="form-check mb-3"> 
                 <input class="form-check-input" type="checkbox" value="" id="rememberPasswordCheck">
                 <label class="form-check-label" for="rememberPasswordCheck">
                   Lembrar senha
@@ -32,6 +31,9 @@
               <div class="d-grid">
                 <button class="btn btn-primary btn-login text-uppercase fw-bold" type="submit">Entrar</button>
               </div>
+
+              <a class="d-block text-center mt-2 small" href="cadastro.php">Não tem uma conta? Registre-se</a>
+
             </form>
           </div>
         </div>

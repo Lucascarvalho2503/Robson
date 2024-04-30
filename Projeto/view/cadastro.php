@@ -39,7 +39,7 @@
 
               <div class="form-floating mb-3">
                 <input type="file" class="form-control" id="floatingInputPhoto">
-                <label for="floatingInputPhoto">Foto de Perfil</label>
+                <label for="floatingInputPhoto"></label>
               </div>
 
               <hr>
@@ -58,7 +58,7 @@
                 <button class="btn btn-lg btn-primary btn-login fw-bold text-uppercase" type="submit">Registre-se</button>
               </div>
 
-              <a class="d-block text-center mt-2 small" href="#">Já tem uma conta? Entre</a>
+              <a class="d-block text-center mt-2 small" href="login.php">Já tem uma conta? Entre</a>
 
             </form>
           </div>
